@@ -90,4 +90,4 @@ async def anuleaza_comanda(ctx):
 async def on_ready():
     print(f'{bot.user} s-a conectat la Discord!')
 
-bot.run('MTIwMTI5NzE1OTM4ODE1NTk1NA.GviI3r.ssWFf3Qn_bYZzsbZEbF3fSi9IC_DVlXKBV4u_k')
+bot.run('MTIwMTI5NzE1OTM4ODE1NTk1NA.G69F7f.NWyBfh0q8HAgTkwixpYbmnDFZC2xHo89ZE0bK4')
